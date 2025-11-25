@@ -5,6 +5,7 @@
   "description": "Singularity AI manager with WebSocket server",
   "main": "dist/server.js",
   "scripts": {
+    "local": "yarn && yarn dev",
     "dev": "ts-node src/server.ts",
     "build": "tsc -p .",
     "start": "node dist/server.js"
