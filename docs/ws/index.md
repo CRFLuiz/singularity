@@ -1,4 +1,4 @@
 # WebSocket – Index
 
-- [messages.md](./messages.md) — fluxo e tipos trocados.
-- [testing.md](./testing.md) — passos de teste rápido.
+- [messages.md](./messages.md) — message flow and exchanged types.
+- [testing.md](./testing.md) — quick testing steps.

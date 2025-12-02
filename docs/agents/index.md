@@ -1,6 +1,6 @@
 # Agents – Index
 
-- [openrouter.md](./openrouter.md) — cliente e variáveis.
-- [pm.md](./pm.md) — criação e execução.
-- [pm_fallback.md](./pm_fallback.md) — perguntas estruturadas.
-- [mock.md](./mock.md) — geração de resposta sem OpenRouter.
+- [openrouter.md](./openrouter.md) — client and variables.
+- [pm.md](./pm.md) — creation and execution.
+- [pm_fallback.md](./pm_fallback.md) — structured questions.
+- [mock.md](./mock.md) — response generation without OpenRouter.

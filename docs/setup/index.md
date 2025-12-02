@@ -1,4 +1,4 @@
 # Setup – Index
 
-- [dev.md](./dev.md) — executar localmente e via Compose.
-- [env.md](./env.md) — variáveis e arquivos ignorados.
+- [dev.md](./dev.md) — run locally and via Compose.
+- [env.md](./env.md) — environment variables and ignored files.

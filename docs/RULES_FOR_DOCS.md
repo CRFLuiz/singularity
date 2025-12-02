@@ -1,8 +1,8 @@
 # RULES_FOR_DOCS
 
-- Use links relativos entre documentos (ex.: `./index.md`).
-- Referencie código com `file_path:line_number`.
-- Evite segredos e credenciais; nunca exponha valores.
-- Mantenha uma única fonte por assunto; evite duplicação.
-- Escreva de forma concisa e factual; foco em execução por agentes.
-- Atualize índices quando novos arquivos forem criados.
+- Use relative links between documents (e.g., `./index.md`).
+- Reference code paths (no line numbers), e.g., `singularity/src/server.ts`.
+- Avoid secrets and credentials; never expose values.
+- Maintain a single source per topic; avoid duplication.
+- Write concisely and factually; focus on agent execution.
+- Update indexes when new files are created.

@@ -1,4 +1,4 @@
 # Environment – Index
 
-- [variables.md](./variables.md) — variáveis e fontes.
-- [compose.md](./compose.md) — integração com docker-compose.
+- [variables.md](./variables.md) — variables and sources.
+- [compose.md](./compose.md) — docker-compose integration.

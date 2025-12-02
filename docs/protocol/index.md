@@ -1,4 +1,4 @@
 # Protocol – Index
 
-- [types.md](./types.md) — formas de entrada/saída.
-- [constants.md](./constants.md) — valores de `Types`.
+- [types.md](./types.md) — input/output shapes.
+- [constants.md](./constants.md) — `Types` values.

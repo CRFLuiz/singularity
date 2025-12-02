@@ -1,16 +1,16 @@
 # Singularity Docs – START_HERE
 
-Docs são curtas e acionáveis para agentes de IA. Cada pasta possui um `index.md` com links e descrições breves.
+Docs are short and actionable for AI agents. Each folder has an `index.md` with links and brief descriptions.
 
-- overview/ — visão geral do serviço, arquivos principais e scripts.
-- setup/ — como executar localmente e via Compose, variáveis de ambiente.
-- ws/ — WebSocket server, fluxo de mensagens, teste rápido.
-- protocol/ — tipos de mensagens e constantes.
-- agents/ — integração OpenRouter, PM e fallback.
-- environment/ — variáveis e integração com `cosmic`/`infra`.
-- tech/ — stack, dependências e configs de TypeScript.
+- overview/ — service overview, main files and scripts.
+- setup/ — how to run locally and via Compose, environment variables.
+- ws/ — WebSocket server, message flow, quick testing.
+- protocol/ — message types and constants.
+- agents/ — OpenRouter integration, PM and fallback.
+- environment/ — variables and integration with `cosmic`/`infra`.
+- tech/ — stack, dependencies and TypeScript configs.
 
-Leia e siga `./RULES_FOR_DOCS.md` antes de criar ou atualizar documentos.
+Read and follow `./RULES_FOR_DOCS.md` before creating or updating documents.
 
 Links:
 - ./overview/index.md
