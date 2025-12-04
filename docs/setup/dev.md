@@ -9,4 +9,5 @@
 - Compose:
   - `nebulosa-infra/environments/local/docker-compose.yaml`
   - Frontend uses `VITE_SINGULARITY_WS_URL` — `nebulosa-infra/environments/local/docker-compose.yaml`
-  - TLS/HTTPS note: in local infra, WS may be proxied as `wss://` — see nginx service — `nebulosa-infra/environments/local/docker-compose.yaml`
+  - TLS/HTTPS: via Nginx, clientes web devem usar `wss://<domínio>/singularity/ws`.
+  - Server port: `SINGULARITY_PORT` define a porta interna do serviço.
